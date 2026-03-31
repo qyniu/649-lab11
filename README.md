@@ -30,7 +30,7 @@ In VS Code, go to the Extensions panel and search for **Live Server** by Ritwick
 For the class demo: 
 Right-click on `demo.html` in the VS Code file explorer and select **Open with Live Server**.
 
-For the class activity: 
+For the lab assignment: 
 Right-click on `index.html` in the VS Code file explorer and select **Open with Live Server**.
 
 ### 6. Working Documents:
